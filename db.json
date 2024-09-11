@@ -1,0 +1,56 @@
+{
+  "allVideos": [
+    {
+      "id": "23c1",
+      "caption": "avesham",
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d1/Aavesham.jpg",
+      "link": "https://www.youtube.com/embed/L0yEMl8PXnw"
+    }
+  ],
+  "categories": [
+    {
+      "id": "9259",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "ff25",
+          "caption": "manjummel boys",
+          "url": "https://survi.in/wp-content/uploads/2024/02/manjummel-boys-review-e1708757255920.jpg",
+          "link": "https://www.youtube.com/embed/id848Ww1YLo"
+        }
+      ]
+    },
+    {
+      "id": "ae52",
+      "categoryName": "movies",
+      "allVideos": [
+        {
+          "id": "95f5",
+          "caption": "home",
+          "url": "https://www.mindchirps.com/images/blog/images/16475001766232db9073ad8",
+          "link": "https://www.youtube.com/embed/0xrCuNa_zZU"
+        }
+      ]
+    },
+    {
+      "id": "97c4",
+      "categoryName": "tutorials",
+      "allVideos": [
+        {
+          "id": "4a0e",
+          "caption": "js ",
+          "url": "https://play-lh.googleusercontent.com/rfWOJQVBHoAZ_B43v0ySFlLmJBLtksVGAxGaFRh2ex4nOmNQ86qzG4sYWV63IKrXlvI",
+          "link": "https://www.youtube.com/embed/EerdGm-ehJQ"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "f823",
+      "caption": "Vaazha",
+      "link": "https://www.youtube.com/embed/87IzSX3PpuA",
+      "timeStamp": "9/6/2024, 12:55:36 PM GMT+5:30"
+    }
+  ]
+}
